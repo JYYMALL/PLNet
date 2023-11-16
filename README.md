@@ -1,12 +1,5 @@
 # Power line segmentation by Multi-Level Attention from Hough domain
 
-> **Authors:**
-> Ning Wei,
-> Yuyang Jin,
-> Zhiping Dan,
-> Na Liu,
-> and Shuifa Sun.
-
 ### Inference code
 Code for reproducing results in the paper __Power line segmentation by Multi-Level Attention from Hough domain__.
 
