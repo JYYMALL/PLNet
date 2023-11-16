@@ -1,7 +1,7 @@
 # Power line segmentation by Multi-level attention from Hough domain
 
 ### Inference code
-Code for reproducing results in the paper __Power line segmentation by Multi-Level Attention from Hough domain__.
+Code for reproducing results in the paper __Power line segmentation by Multi-level attention from Hough domain__.
 
 ## Network Architecture
 ![pipeline](https://github.com/JYYMALL/PLNet/blob/main/pipeline.png)
