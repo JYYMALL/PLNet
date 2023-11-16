@@ -1,4 +1,4 @@
-# Power line segmentation by Multi-Level Attention from Hough domain
+# Power line segmentation by Multi-level attention from Hough domain
 
 ### Inference code
 Code for reproducing results in the paper __Power line segmentation by Multi-Level Attention from Hough domain__.
