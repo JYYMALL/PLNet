@@ -49,7 +49,7 @@ __Note__:Please make sure to install __deep-hough__ on an Ubuntu system. For spe
     which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1iOwioenpnfYKlpOXZIHWykCbRo1YLI-U/view?usp=sharing).
     
     + downloading pretrained weights and move it into `./checkpoints/PLNet/PLNet-BEST.pth`, 
-    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1i6cB9yOgT7xTNc87gnQjjPEkImqWMN_i/view?usp=sharing).
+    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1jT5Fx7kbYVkoXiwAOOQP7ZTtDGoTtYOx/view?usp=sharing).
     
     + downloading Res2Net weights and move it into `./models/res2net50_v1b_26w_4s-3cf99910.pth`[download link (Google Drive)](https://drive.google.com/file/d/1EFoiK8XDzTZKjPsruHPwEtKJ65v3W9Ib/view?usp=sharing).
 
